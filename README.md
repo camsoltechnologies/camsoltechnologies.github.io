@@ -1,6 +1,6 @@
 # Version
 
-0.91
+0.92
 
 # "Starnight" One Page Website Template
 
