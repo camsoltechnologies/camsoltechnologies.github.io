@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/camsol.github.io/static/css/main.6d39f34a.css",
-    "main.js": "/camsol.github.io/static/js/main.296b1a2a.js",
+    "main.css": "/camsol.github.io/static/css/main.22cb2a70.css",
+    "main.js": "/camsol.github.io/static/js/main.0eee50d8.js",
     "static/js/787.dada3df6.chunk.js": "/camsol.github.io/static/js/787.dada3df6.chunk.js",
     "static/media/serviceBG.png": "/camsol.github.io/static/media/serviceBG.c45d15b3838f463daf68.png",
     "static/media/person.png": "/camsol.github.io/static/media/person.a6999b1f42687d4c7b44.png",
@@ -12,12 +12,12 @@
     "static/media/contactIllustration.png": "/camsol.github.io/static/media/contactIllustration.070a2285ceba778809db.png",
     "static/media/svg.svg": "/camsol.github.io/static/media/svg.254f0b6abefc71bcd9bf47af96f6c739.svg",
     "index.html": "/camsol.github.io/index.html",
-    "main.6d39f34a.css.map": "/camsol.github.io/static/css/main.6d39f34a.css.map",
-    "main.296b1a2a.js.map": "/camsol.github.io/static/js/main.296b1a2a.js.map",
+    "main.22cb2a70.css.map": "/camsol.github.io/static/css/main.22cb2a70.css.map",
+    "main.0eee50d8.js.map": "/camsol.github.io/static/js/main.0eee50d8.js.map",
     "787.dada3df6.chunk.js.map": "/camsol.github.io/static/js/787.dada3df6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d39f34a.css",
-    "static/js/main.296b1a2a.js"
+    "static/css/main.22cb2a70.css",
+    "static/js/main.0eee50d8.js"
   ]
 }
