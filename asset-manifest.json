@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/camsol.github.io/static/css/main.22cb2a70.css",
-    "main.js": "/camsol.github.io/static/js/main.0eee50d8.js",
-    "static/js/787.dada3df6.chunk.js": "/camsol.github.io/static/js/787.dada3df6.chunk.js",
-    "static/media/serviceBG.png": "/camsol.github.io/static/media/serviceBG.c45d15b3838f463daf68.png",
-    "static/media/person.png": "/camsol.github.io/static/media/person.a6999b1f42687d4c7b44.png",
-    "static/media/startup1.png": "/camsol.github.io/static/media/startup1.b3a60f2cd419a54d9271.png",
-    "static/media/startup2.png": "/camsol.github.io/static/media/startup2.fdf228cee0fdfb4336c6.png",
-    "static/media/contactBG.png": "/camsol.github.io/static/media/contactBG.72bb57e8f80225182cdb.png",
-    "static/media/Illustration.png": "/camsol.github.io/static/media/Illustration.d42b8df43a8b7762b24f.png",
-    "static/media/contactIllustration.png": "/camsol.github.io/static/media/contactIllustration.070a2285ceba778809db.png",
-    "static/media/svg.svg": "/camsol.github.io/static/media/svg.254f0b6abefc71bcd9bf47af96f6c739.svg",
-    "index.html": "/camsol.github.io/index.html",
-    "main.22cb2a70.css.map": "/camsol.github.io/static/css/main.22cb2a70.css.map",
-    "main.0eee50d8.js.map": "/camsol.github.io/static/js/main.0eee50d8.js.map",
-    "787.dada3df6.chunk.js.map": "/camsol.github.io/static/js/787.dada3df6.chunk.js.map"
+    "main.css": "/static/css/main.809c1a40.css",
+    "main.js": "/static/js/main.f1306c3c.js",
+    "static/js/932.80c20663.chunk.js": "/static/js/932.80c20663.chunk.js",
+    "static/media/serviceBG.png": "/static/media/serviceBG.c45d15b3838f463daf68.png",
+    "static/media/person.png": "/static/media/person.a6999b1f42687d4c7b44.png",
+    "static/media/startup1.png": "/static/media/startup1.b3a60f2cd419a54d9271.png",
+    "static/media/startup2.png": "/static/media/startup2.fdf228cee0fdfb4336c6.png",
+    "static/media/contactBG.png": "/static/media/contactBG.72bb57e8f80225182cdb.png",
+    "static/media/Illustration.png": "/static/media/Illustration.d42b8df43a8b7762b24f.png",
+    "static/media/contactIllustration.png": "/static/media/contactIllustration.070a2285ceba778809db.png",
+    "static/media/svg.svg": "/static/media/svg.254f0b6abefc71bcd9bf47af96f6c739.svg",
+    "index.html": "/index.html",
+    "main.809c1a40.css.map": "/static/css/main.809c1a40.css.map",
+    "main.f1306c3c.js.map": "/static/js/main.f1306c3c.js.map",
+    "932.80c20663.chunk.js.map": "/static/js/932.80c20663.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22cb2a70.css",
-    "static/js/main.0eee50d8.js"
+    "static/css/main.809c1a40.css",
+    "static/js/main.f1306c3c.js"
   ]
 }
