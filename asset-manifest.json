@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.16bb8a17.css",
-    "main.js": "/static/js/main.628dcee8.js",
+    "main.css": "/static/css/main.6985bdc5.css",
+    "main.js": "/static/js/main.7730d257.js",
     "static/js/787.dada3df6.chunk.js": "/static/js/787.dada3df6.chunk.js",
     "static/media/jume.jpg": "/static/media/jume.f1d22e3db4ee46916c87.jpg",
     "static/media/about_card.png": "/static/media/about_card.0d05c5be54c68b852fb7.png",
     "static/media/serviceBG.png": "/static/media/serviceBG.c45d15b3838f463daf68.png",
     "static/media/person.png": "/static/media/person.a6999b1f42687d4c7b44.png",
+    "static/media/person_camsol.png": "/static/media/person_camsol.d73b49539e1962ac4c89.png",
     "static/media/contact_user.png": "/static/media/contact_user.2cfe3150d424286cc692.png",
     "static/media/selina.jpeg": "/static/media/selina.eaf3efc7e674f3a62551.jpeg",
     "static/media/startup1.png": "/static/media/startup1.b3a60f2cd419a54d9271.png",
@@ -19,7 +20,6 @@
     "static/media/camsol_logo_white.png": "/static/media/camsol_logo_white.94769a9d520128355d58.png",
     "static/media/header_background.jpg": "/static/media/header_background.378134fefb4b09a0f4c1.jpg",
     "static/media/mohamad.jpeg": "/static/media/mohamad.5cd6031c0b97258ede86.jpeg",
-    "static/media/person_camsol.png": "/static/media/person_camsol.190f853f81df27f08f25.png",
     "static/media/peggy.jpeg": "/static/media/peggy.ff9df747dca43b0b4562.jpeg",
     "static/media/franck.jpeg": "/static/media/franck.4080be372f4935e25ef8.jpeg",
     "static/media/tobias.jpeg": "/static/media/tobias.ebfda33eae0fa8e209df.jpeg",
@@ -31,12 +31,12 @@
     "static/media/2.png": "/static/media/2.9b7e7672e47247c99a2e.png",
     "static/media/svg.svg": "/static/media/svg.4aaa98c73f22e468a72c1f5fd0d4ccb8.svg",
     "index.html": "/index.html",
-    "main.16bb8a17.css.map": "/static/css/main.16bb8a17.css.map",
-    "main.628dcee8.js.map": "/static/js/main.628dcee8.js.map",
+    "main.6985bdc5.css.map": "/static/css/main.6985bdc5.css.map",
+    "main.7730d257.js.map": "/static/js/main.7730d257.js.map",
     "787.dada3df6.chunk.js.map": "/static/js/787.dada3df6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16bb8a17.css",
-    "static/js/main.628dcee8.js"
+    "static/css/main.6985bdc5.css",
+    "static/js/main.7730d257.js"
   ]
 }
