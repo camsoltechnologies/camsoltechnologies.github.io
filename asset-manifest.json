@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9f7c5e3.css",
-    "main.js": "/static/js/main.3a48f860.js",
+    "main.css": "/static/css/main.a4579f40.css",
+    "main.js": "/static/js/main.fb2260f5.js",
     "static/js/787.dada3df6.chunk.js": "/static/js/787.dada3df6.chunk.js",
     "static/media/jume.jpg": "/static/media/jume.f1d22e3db4ee46916c87.jpg",
     "static/media/about_card.png": "/static/media/about_card.0d05c5be54c68b852fb7.png",
     "static/media/serviceBG.png": "/static/media/serviceBG.c45d15b3838f463daf68.png",
+    "static/media/bg.jpg": "/static/media/bg.7a33092395944a53393f.jpg",
     "static/media/person.png": "/static/media/person.a6999b1f42687d4c7b44.png",
     "static/media/person_camsol.png": "/static/media/person_camsol.d73b49539e1962ac4c89.png",
     "static/media/contact_user.png": "/static/media/contact_user.2cfe3150d424286cc692.png",
     "static/media/selina.jpeg": "/static/media/selina.eaf3efc7e674f3a62551.jpeg",
     "static/media/startup1.png": "/static/media/startup1.b3a60f2cd419a54d9271.png",
-    "static/media/about_extra_2.png": "/static/media/about_extra_2.b8328dc67749cef13fd4.png",
+    "static/media/about_extra_2.png": "/static/media/about_extra_2.9a4c20b7eb9ce79ea826.png",
     "static/media/startup2.png": "/static/media/startup2.fdf228cee0fdfb4336c6.png",
     "static/media/kongyu.jpeg": "/static/media/kongyu.08df8e8452b98b2af768.jpeg",
     "static/media/contactBG.png": "/static/media/contactBG.72bb57e8f80225182cdb.png",
@@ -33,12 +34,12 @@
     "static/media/2.png": "/static/media/2.9b7e7672e47247c99a2e.png",
     "static/media/svg.svg": "/static/media/svg.4aaa98c73f22e468a72c1f5fd0d4ccb8.svg",
     "index.html": "/index.html",
-    "main.a9f7c5e3.css.map": "/static/css/main.a9f7c5e3.css.map",
-    "main.3a48f860.js.map": "/static/js/main.3a48f860.js.map",
+    "main.a4579f40.css.map": "/static/css/main.a4579f40.css.map",
+    "main.fb2260f5.js.map": "/static/js/main.fb2260f5.js.map",
     "787.dada3df6.chunk.js.map": "/static/js/787.dada3df6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f7c5e3.css",
-    "static/js/main.3a48f860.js"
+    "static/css/main.a4579f40.css",
+    "static/js/main.fb2260f5.js"
   ]
 }
