@@ -1,6 +1,6 @@
 {
-  "short_name": "Camsol Technologies",
-  "name": "Camsol Technologies UG (haftungsbeschränkt)",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#FAFBFF",
-  "background_color": "#5596C6"
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
